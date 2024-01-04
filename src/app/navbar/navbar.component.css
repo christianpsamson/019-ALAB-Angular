@@ -1,0 +1,27 @@
+.navbar-top {
+  width: 90vw;
+  border: solid black 2px;
+  margin: 1em auto auto auto;
+}
+.navbar-links {
+  display: flex;
+  justify-content: space-around;
+  background-color: #7cc5d7;
+  list-style-type: none;
+  margin: 0;
+  padding: 0.5em;
+}
+
+.navbar-text {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.button {
+  background-color: #fff;
+  border: solid black 2px;
+  border-radius: 15px;
+  padding: 0.5em;
+}

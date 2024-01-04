@@ -1,0 +1,8 @@
+.content-view {
+  display: flex;
+  background-color: #deecf1;
+  width: 90vw;
+  border: solid black 2px;
+  border-top: none;
+  margin: 0 auto auto auto;
+}
